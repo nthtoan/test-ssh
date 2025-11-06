@@ -1,1 +1,2 @@
-test-ssh
+update readme on my compyter
+
